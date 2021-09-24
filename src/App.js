@@ -30,7 +30,7 @@ function App() {
       <div className='container'>
         <header className='section has-text-centered'>
           <h1 className='title is-size-3 has-text-primary'>
-            Search for pictures of good doggos
+            Search for pictures of good dogs from MSUS
           </h1>
           <p>Filter by breed for more choice!</p>
         </header>
